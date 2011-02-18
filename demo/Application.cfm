@@ -1,3 +1,3 @@
 <cfapplication name="Example Exceptional Application">
 
-<cferror template="error.cfm" exception="any" type="EXCEPTION">
+<cferror template="onerror.cfm" exception="any" type="EXCEPTION">
