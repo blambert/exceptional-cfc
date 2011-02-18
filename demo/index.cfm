@@ -1,1 +1,1 @@
-empty file.
+<cfset ListGetAt("1,2", 3, ",")>
